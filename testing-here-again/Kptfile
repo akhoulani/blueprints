@@ -4,6 +4,7 @@ metadata:
   name: testing-here-again
   annotations:
     config.kubernetes.io/local-config: "true"
+    namespace: NewAmerNamespace
 info:
   site: amer.awsome.no
   description: learning package initiaton
