@@ -5,7 +5,7 @@
 Nginx Ingress Controller package
 
 ## Usage
-
+THIS IS V2 !!!!!!
 ### Fetch the package
 
 ```sh
